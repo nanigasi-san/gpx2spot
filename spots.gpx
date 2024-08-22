@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Geographica - http://geographica.biz/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:kashmir3d="http://www.kashmir3d.com/namespace/kashmir3d" xmlns:geographica="http://geographica.biz/namespace/geographica">
+<wpt lat="35.723754" lon="139.959179" iswarning="0">
+<ele>19.000000</ele>
+<time>2024-07-10T06:25:58Z</time>
+<name>中山競馬場</name>
+<cmt></cmt>
+<extensions>
+<kashmir3d:ident></kashmir3d:ident>
+<kashmir3d:icon>901001</kashmir3d:icon>
+<geographica:icon>17</geographica:icon>
+</extensions>
+</wpt>
+<wpt lat="35.723402" lon="139.953992" iswarning="0">
+<ele>20.000000</ele>
+<time>2024-07-10T06:16:50Z</time>
+<name>マロニエ</name>
+<cmt></cmt>
+<extensions>
+<kashmir3d:ident></kashmir3d:ident>
+<kashmir3d:icon>901001</kashmir3d:icon>
+<geographica:icon>12</geographica:icon>
+</extensions>
+</wpt>
+<wpt lat="35.721350" lon="139.953771" iswarning="0">
+<ele>20.000000</ele>
+<time>2024-07-10T06:06:54Z</time>
+<name>法華経寺 奥の院</name>
+<cmt></cmt>
+<extensions>
+<kashmir3d:ident></kashmir3d:ident>
+<kashmir3d:icon>901001</kashmir3d:icon>
+<geographica:icon>12</geographica:icon>
+</extensions>
+</wpt>
+<wpt lat="35.720766" lon="139.949085" iswarning="0">
+<ele>15.000000</ele>
+<time>2024-07-10T05:58:40Z</time>
+<name>法華経寺</name>
+<cmt></cmt>
+<extensions>
+<kashmir3d:ident></kashmir3d:ident>
+<kashmir3d:icon>901001</kashmir3d:icon>
+<geographica:icon>12</geographica:icon>
+</extensions>
+</wpt>
+<wpt lat="35.720442" lon="139.946909" iswarning="0">
+<ele>13.000000</ele>
+<time>2024-07-10T05:50:28Z</time>
+<name>龍王池</name>
+<cmt></cmt>
+<extensions>
+<kashmir3d:ident></kashmir3d:ident>
+<kashmir3d:icon>901001</kashmir3d:icon>
+<geographica:icon>13</geographica:icon>
+</extensions>
+</wpt>
+<wpt lat="35.722831" lon="139.946583" iswarning="0">
+<ele>20.000000</ele>
+<time>2024-07-10T05:08:19Z</time>
+<name>東山魁夷記念館</name>
+<cmt></cmt>
+<extensions>
+<kashmir3d:ident></kashmir3d:ident>
+<kashmir3d:icon>901001</kashmir3d:icon>
+<geographica:icon>12</geographica:icon>
+</extensions>
+</wpt>
+<wpt lat="35.719069" lon="139.938494" iswarning="0">
+<ele>5.000000</ele>
+<time>2024-07-10T04:44:50Z</time>
+<name>神明寺</name>
+<cmt></cmt>
+<extensions>
+<kashmir3d:ident></kashmir3d:ident>
+<kashmir3d:icon>901001</kashmir3d:icon>
+<geographica:icon>6</geographica:icon>
+</extensions>
+</wpt>
+<wpt lat="35.719720" lon="139.939047" iswarning="0">
+<ele>5.000000</ele>
+<time>2024-07-10T04:41:25Z</time>
+<name>神明社</name>
+<cmt></cmt>
+<extensions>
+<kashmir3d:ident></kashmir3d:ident>
+<kashmir3d:icon>901001</kashmir3d:icon>
+<geographica:icon>6</geographica:icon>
+</extensions>
+</wpt>
+<wpt lat="35.720489" lon="139.936832" iswarning="0">
+<ele>5.000000</ele>
+<time>2024-07-10T04:36:03Z</time>
+<name>ベーグルO</name>
+<cmt></cmt>
+<extensions>
+<kashmir3d:ident></kashmir3d:ident>
+<kashmir3d:icon>901001</kashmir3d:icon>
+<geographica:icon>12</geographica:icon>
+</extensions>
+</wpt>
+<wpt lat="35.722234" lon="139.936513" iswarning="0">
+<ele>3.000000</ele>
+<time>2024-07-10T04:32:09Z</time>
+<name>大和橋</name>
+<cmt></cmt>
+<extensions>
+<kashmir3d:ident></kashmir3d:ident>
+<kashmir3d:icon>901001</kashmir3d:icon>
+<geographica:icon>6</geographica:icon>
+</extensions>
+</wpt>
+<wpt lat="35.725111" lon="139.934866" iswarning="0">
+<ele>2.000000</ele>
+<time>2024-07-10T04:20:11Z</time>
+<name>水木洋子邸</name>
+<cmt></cmt>
+<extensions>
+<kashmir3d:ident></kashmir3d:ident>
+<kashmir3d:icon>901001</kashmir3d:icon>
+<geographica:icon>12</geographica:icon>
+</extensions>
+</wpt>
+<wpt lat="35.724086" lon="139.930967" iswarning="0">
+<ele>2.000000</ele>
+<time>2024-07-10T04:08:11Z</time>
+<name>葛飾八幡宮</name>
+<cmt></cmt>
+<extensions>
+<kashmir3d:ident></kashmir3d:ident>
+<kashmir3d:icon>901001</kashmir3d:icon>
+<geographica:icon>6</geographica:icon>
+</extensions>
+</wpt>
+<wpt lat="35.721645" lon="139.930403" iswarning="0">
+<ele>2.000000</ele>
+<time>2024-07-10T03:55:20Z</time>
+<name>八幡の藪知らず</name>
+<cmt>入ると死ぬ</cmt>
+<extensions>
+<kashmir3d:ident></kashmir3d:ident>
+<kashmir3d:icon>901001</kashmir3d:icon>
+<geographica:icon>15</geographica:icon>
+</extensions>
+</wpt>
+<wpt lat="35.719350" lon="139.928282" iswarning="0">
+<ele>1.000000</ele>
+<time>2024-07-10T03:42:04Z</time>
+<name>旺華楼</name>
+<cmt></cmt>
+<extensions>
+<kashmir3d:ident></kashmir3d:ident>
+<kashmir3d:icon>901001</kashmir3d:icon>
+<geographica:icon>41</geographica:icon>
+</extensions>
+</wpt>
+</gpx>
